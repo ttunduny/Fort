@@ -1,4 +1,2 @@
-branches:
-  except:
-    - 2.1-stable
-    - master
+language: php
+php: '7.0'
